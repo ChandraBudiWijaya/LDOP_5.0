@@ -49,7 +49,6 @@ th, td {
     text-align: left;
 }
 
-/* Gaya untuk bagian-bagian lainnya seperti pendidikan, pengalaman, keterampilan, dll. */
 section {
     margin-top: 20px;
     background-color: #fff;
@@ -58,7 +57,6 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Gaya untuk tautan */
 a {
     color: #007bff;
     text-decoration:dashed;
@@ -69,20 +67,20 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Gaya untuk daftar dalam bagian soft skills */
+
 .softskill ul {
     list-style-type: disc;
     margin-left: 20px;
 }
 
-/* Gaya untuk garis horizontal */
+
 hr {
     border: none;
     border-top: 2px solid #333;
     margin: 20px 0;
 }
 
-/* Gaya untuk tabel dalam bagian pendidikan */
+
 .tabel table {
     width: 100%;
     border-collapse: collapse;
@@ -94,13 +92,13 @@ hr {
     text-align: left;
 }
 
-/* Gaya untuk gambar ikon media sosial */
+
 .kontak img {
     vertical-align: middle;
     margin-right: 5px;
 }
 
-/* Gaya untuk kontak */
+
 .kontak ul {
     list-style:square;
     padding: 0;
